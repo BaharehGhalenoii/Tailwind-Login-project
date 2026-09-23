@@ -1,6 +1,6 @@
 # 🔐 Tailwind Login
 
-A modern, responsive login page built with **Vanilla JavaScript** and **Tailwind CSS v4**, powered by **Vite**.  
+A modern, responsive login page built with Vanilla JavaScript and Tailwind CSS v4, powered by Vite  
 This project demonstrates a complete authentication flow with client-side validation, token management, and a clean UI.
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.3-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -176,7 +176,7 @@ tailwind-login/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/YOUR_USERNAME/tailwind-login/issues).
+Feel free to check the [issues page](https://github.com/BaharehGhalenoii/tailwind-login/issues).
 
 ---
 
@@ -188,10 +188,10 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Your Name**
+**Bahareh Ghalenoii**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- GitHub: [@YOUR_USERNAME](https://github.com/BaharehGhalenoii)
+- Email: ghalenoiibahareh@gmail.com
 
 ---
 
